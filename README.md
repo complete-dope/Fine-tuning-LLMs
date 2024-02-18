@@ -29,9 +29,7 @@
   <section>
     <h2>Installation</h2>
     <p>To install the project, simply clone the repository and install the dependencies:</p>
-    <pre><code>git clone https://github.com/your-username/your-project.git
-cd your-project
-pip install -r requirements.txt</code></pre>
+    <pre><code>git clone https://github.com/your-username/your-project.git</code></pre>
   </section>
 
   <section>
