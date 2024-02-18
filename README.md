@@ -36,7 +36,7 @@
     <h2>Usage</h2>
     <p>To fine-tune a large language model, follow these steps:</p>
     <ol>
-      <li>Prepare your dataset according to the required format.</li>
+      <li>Prepare your dataset according to the required format. The format should be jsonl </li>
       <li>Run the fine-tuning script, specifying the model architecture and hyperparameters.</li>
       <li>Evaluate the fine-tuned model using the provided evaluation scripts.</li>
       <li>Utilize the fine-tuned model for inference or downstream tasks.</li>
