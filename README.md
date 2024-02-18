@@ -13,7 +13,7 @@
 
   <section>
     <h2>Description</h2>
-    <p>This project focuses on enabling fine-tuning of state-of-the-art large language models, including models like GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations from Transformers), and XLNet.</p>
+    <p>This project focuses on enabling fine-tuning of state-of-the-art large language models, including models like Mixtral model and llama.</p>
   </section>
 
   <section>
